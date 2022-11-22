@@ -1,0 +1,1 @@
+attach with movies catalog and info  ratings folder along with these should also run discovery service all at a time.
